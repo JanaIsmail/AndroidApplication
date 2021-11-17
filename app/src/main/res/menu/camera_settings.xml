@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/setupAngles"
+        android:title="@string/setup_auto_mode_range" />
+
+    <item
+        android:id="@+id/scan"
+        android:title="@string/scan_environement" />
+
+    <item
+        android:id="@+id/recenter"
+        android:title="@string/re_center" />
+
+</menu>
